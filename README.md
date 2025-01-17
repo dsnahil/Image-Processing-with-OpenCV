@@ -1,0 +1,1 @@
+This project uses OpenCV for basic image processing in Google Colab. Features include interactive image upload, displaying images with `cv2_imshow`, resizing images while maintaining aspect ratio, and rotating images by 180 degrees. A beginner-friendly introduction to manipulating and transforming images programmatically!
